@@ -1,0 +1,12 @@
+
+# IntellijIdea files
+*.iml
+.idea
+out
+
+# Project files
+tmp\
+*_old
+*_backup
+Thumbs.db
+*.DS_Store
